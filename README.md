@@ -3,7 +3,7 @@
 - 🔭 I’m currently a full time student at Microverse Inc. forging ahead to building a career in software development
 - 🌱 I'm currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m eager to collaborate with bright minds on JavaScript, React and Ruby on Rails Project
-- Available for hire” or “Available for remote opportunities
+- 💬 “Available for remote opportunities
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [portfolio](https://raw.githack.com/wintan1418/my-portfolio/feature/index.html), [Linkedin](www.linkedin.com/in/oluwintan),[mail](wintan1418@gmail.com)
 - 😄 Sex-identity: He/Him
