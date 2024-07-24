@@ -1,8 +1,8 @@
 ### Hi there it's WINTAN 👋
 
-- 🔭 I’m currently a full time student at Microverse Inc. forging ahead to building a career in software development
-- 🌱 I'm currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
-- 👯 I’m eager to collaborate with bright minds on JavaScript, React and Ruby on Rails Project
+- 🔭 I’m A software developer with 4 years working experience building awesome projects.
+- 🌱 I'm currently learning the big stuffs lie devops,graphql and more matured concepts in tech beyond the average basic.
+- 👯 I’m eager to collaborate with bright minds on JavaScript, React and Ruby on Rails Project.
 - 💬 “Available for remote opportunities
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [portfolio](https://raw.githack.com/wintan1418/my-portfolio/feature/index.html), [Linkedin](www.linkedin.com/in/oluwintan),[mail](wintan1418@gmail.com)
