@@ -70,7 +70,10 @@ Full-stack engineer from Nigeria with 6+ years of shipping production software. 
 
 ### ✍️ Latest from my blog
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Musings from a lean stack: A deploy that takes 30 seconds changes how you work](https://oluwintan.com/blog/musings-from-a-lean-stack-a-deploy-that-takes-30-seconds-changes-how-you-work)
+- [Musings from a lean stack: Stop making every request wait for the AI](https://oluwintan.com/blog/musings-from-a-lean-stack-stop-making-every-request-wait-for-the-ai)
+- [Musings from a lean stack: Your users pay for every kilobyte you forget about](https://oluwintan.com/blog/musings-from-a-lean-stack-your-users-pay-for-every-kilobyte-you-forget-about)
+- [Musings from a lean stack: The timeout you borrowed is breaking a feature you forgot](https://oluwintan.com/blog/musings-from-a-lean-stack-the-timeout-you-borrowed-is-breaking-a-feature-you-forgot)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [oluwintan.com/blog](https://oluwintan.com/blog)
